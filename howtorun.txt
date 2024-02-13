@@ -1,0 +1,5 @@
+install sfml and mingw
+
+sfml 2.5.1 package is already included 
+
+in the terminal type, "mingw32-make" (for systems mingw and sfml installed)
