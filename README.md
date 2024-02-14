@@ -4,12 +4,15 @@ This is Minesweeper game developed using C++ and SFML
 The game has welcome screen, game window and leaderboard interfaces
 
 welcome screen
+
 ![alt text](interfaces/welcomeScreen.png)
 
 game window
+
 ![alt text](interfaces/gameWindow.png)
 
 leaderboard
+
 ![alt text](interfaces/leaderboard.png)
 
 how to run:
