@@ -1,4 +1,4 @@
-# Navodya16-Minesweeper-game-in-C-
+# Navodya16-Minesweeper-game-in-C++
 
 This is Minesweeper game developed using C++ and SFML
 The game has welcome screen, game window and leaderboard interfaces
